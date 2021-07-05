@@ -41,7 +41,6 @@ h1 {
   margin-left: 2%;
   color:white !important;
   margin-right: 3%;
-  
   cursor: pointer;
 }
 </style>
